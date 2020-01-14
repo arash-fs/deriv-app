@@ -1,0 +1,21 @@
+{
+  "404.js": "/js/trader.404.4fc8332dcc95859f1b49.js",
+  "account.css": "/css/trader.account.5d4a58d929cd01099029.css",
+  "account.js": "/js/trader.account.115e77f4edd6a86e3d7f.js",
+  "account~reports.js": "/js/trader.account~reports.b89db947cd3c7c166755.js",
+  "contract.js": "/js/trader.contract.250ca1e0214e5b86c3c0.js",
+  "error-component.js": "/js/trader.error-component.af83bd83fc7038e142c5.js",
+  "main.css": "/css/trader.main.css",
+  "main.js": "/js/trader.main.js",
+  "mt5.css": "/css/trader.mt5.fec70f9dc9c1fff8f848.css",
+  "mt5.js": "/js/trader.mt5.575fc96a6bd90e80b0ad.js",
+  "reports.css": "/css/trader.reports.18a366a428848aaec430.css",
+  "reports.js": "/js/trader.reports.b91c06d23e081bb47885.js",
+  "screen-small.css": "/css/trader.screen-small.8817fb522782c1c10c3b.css",
+  "screen-small.js": "/js/trader.screen-small.6085510b2133dac45195.js",
+  "settings-chart.js": "/js/trader.settings-chart.72a4d18f869d97ca5fdb.js",
+  "trade-modals.js": "/js/trader.trade-modals.0316af2ca1f259acba7c.js",
+  "two-month-picker.js": "/js/trader.two-month-picker.646940122f5ba4b0666e.js",
+  "public/fonts/app.scss": "/public/fonts/binary_symbols.woff",
+  "public/images/app/portfolio/app.scss": "/public/images/app/portfolio/ic_purchase_light.svg"
+}
